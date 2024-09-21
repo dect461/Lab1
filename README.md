@@ -31,7 +31,7 @@
 ### Написать программу Hello World на C# с запуском на Unity. 
 
 - Скачал Unity Hub с официального сайта, создал первый проект с программой Hello World на C#.
-
+![JupiterScrin](UnityScrin.png)
 
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
@@ -41,16 +41,7 @@
 
 ## Выводы
 
-Абзац умных слов о том, что было сделано и что было узнано.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+- Установил нужное ПО для последующей работы, получил первый опыт работы в Unity.
 
 ## Powered by
 
