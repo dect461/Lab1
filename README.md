@@ -24,6 +24,7 @@
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 
 - Ознакомился с интерфейсом и функциональностью Anaconda и Jupiter Notebook.
+![JupiterScrin](Lab1/JupiterScrin.png)
 
 
 ## Задание 2
